@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Demo to Jekyll!"
-date:   2016-09-01 20:23:39 +0800
+title:  "SpringData整合Redis缓存"
+date:   2017-06-07 12:00:00 +0800
 categories: jekyll update
 ---
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
